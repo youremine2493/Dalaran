@@ -1,4 +1,4 @@
-module github.com/ePecetek/dragon-legend
+module github.com/youremine2493/Dalaran
 
 go 1.13
 
